@@ -1,7 +1,7 @@
 
 # License Plate Recognition
 
-This repository contains a license plate recognition system, where the dataset was preprocessed, formatted, and trained using a YOLOv9 model and Microsoft’s TrOCR (Text Recognition) model.
+recognizing and extracting text from license plates, built using YOLOv9 for object detection and Microsoft’s TrOCR (Text Recognition) model. The system was collaboratively developed by me and my firned to handle the entire process from data preprocessing to model training and evaluation.
 
 ## Project Overview
 
